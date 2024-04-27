@@ -3,8 +3,8 @@
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 303 entries, 0 to 302
 Data columns (total 14 columns):
- 0   Column    Non-Null Count  Dtype  
----  ------    --------------  -----  
+###   Column    Non-Null Count  Dtype  
+
  0   age       303 non-null    int64  
  1   sex       303 non-null    int64  
  2   cp        303 non-null    int64  
